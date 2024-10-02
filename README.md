@@ -16,3 +16,16 @@ The primary sources of data used here is internation breweries sale.csv and this
 - sql- sturcture query language for querying of data.
 - github for creating of portfolio.
 - powerBI for storing data.
+
+- ### Data Cleaning Preparations
+- in the initial phrase of the data cleaning and preparation, we perform the following action
+  1. Data loading and inspection
+  2. Handing missing variables
+  3. Data cleaning and formatting.
+
+     ### Exploratory Data Analysis
+     EDA involved the exploring of  data to answer some questions about the data such as
+     1. what is  the overall staff strenght
+     2. which of the staff is senior staff
+     3. which of the staff received hightest salary
+     4. mode of salary payment to each staff
