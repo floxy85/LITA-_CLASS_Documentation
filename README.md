@@ -25,15 +25,15 @@ The primary sources of data used here is internation breweries sale.csv and this
 
  ### Exploratory Data Analysis
  EDA involved the exploring of  data to answer some questions about the data such as
-    1. what is  the overall staff strenght
+    1. what is the overall staff strenght
    2. which of the staff is senior staff
    3. which of the staff received hightest salary
    4. mode of salary payment to each staff
         
   ### Data Analysis
-   this is where we include some basic lines of code ofqueries or even some of the DAX expressions used during my analysis
+   this is where we include some basic lines of code of queries or even some of the DAX expressions used during my analysis
 
-   ``` SQL
+   --- Sql---
     SELECT * FROM EMPLOYEE
       
         
