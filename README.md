@@ -24,16 +24,21 @@ The primary sources of data used here is internation breweries sale.csv and this
   3. Data cleaning and formatting.
 
  ### Exploratory Data Analysis
- EDA involved the exploring of  data to answer some questions about the data such as
+ EDA involved the exploring of  data to answer some questions about the data such as.
+ 
 1• what is the overall staff strenght.
+
 2• which of the staff is senior staff.
+
 3• which of the staff received hightest salary.
+
 4• mode of salary payment to each staff
         
   ### Data Analysis
    this is where we include some basic lines of code of queries or even some of the DAX expressions used during my analysis
 
    --- Sql---
+   
    create employee table(
    staffid varchar (10) not null
    firstname varchar (255),
@@ -43,6 +48,7 @@ The primary sources of data used here is internation breweries sale.csv and this
    hiredate datetime,
    primary key (staffid)
    )
+   
    insert into table employee (staffid, firstname, secondname, gender, date_of-birth, hitedate).
    
     SELECT * FROM EMPLOYEE
